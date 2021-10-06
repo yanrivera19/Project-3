@@ -1,0 +1,51 @@
+.navbar {
+	font-family: "Montserrat", sans-serif; 	
+}
+
+.rounded-circle {
+	width: 75px;
+	height: 75px;
+}
+
+#roundPic {
+	width: 125px; !important;
+	height: 125px; !important;
+}
+
+.bg-contain {
+	background-color: lightblue;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+   color: white;
+}
+
+h6 {
+	color: steelblue;
+}
+
+h5 {
+	font-size: 15px;
+}
+
+.dates {
+	font-size: 14px;
+}
+
+.tags {
+	font-size: 13px;
+}
+
+@media only screen and (min-width: 991.98px) {
+
+.navbar {
+	padding-right: 80px;
+	padding-left: 80px;
+}
+
+.pad-container {
+	padding-left: 195px;
+	padding-right: 195px;
+}
+
+}
